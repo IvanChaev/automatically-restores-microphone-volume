@@ -1,4 +1,5 @@
-# Norm Gromkost Micro
+# Automatically Restores Microphone Volume
+
 
 Держит громкость микрофона на 100% (Windows). Скрипт запускается в фоне (pythonw), проверяет уровень каждые 10 секунд и поднимает его до максимума, если он снизился.
 
