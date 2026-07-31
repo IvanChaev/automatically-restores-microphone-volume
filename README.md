@@ -17,9 +17,11 @@
 
 ## Установка
 
-```
-pip install -r requirements.txt
-```
+1) Перейдите по ссылке и скачайте [последнюю версию](https://github.com/IvanChaev/automatically-restores-microphone-volume/archive/refs/tags/v1.0.0.zip)
+2) Распакуйте в удобную папку
+3) Запустите батник watchdog.bat
+
+
 
 ## Запуск
 
